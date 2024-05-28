@@ -1,6 +1,6 @@
 # Desafio de projeto Ransomware na Prática com Python
 
-O desafio faz parte do conteúdi abordado pelo curso *Santander Bootcamp Cibersegurança*, realizado pela [DIO](https://web.dio.me/track/santander-bootcamp-ciberseguranca?tab=about), em parceria com Santander Universidades.
+O desafio faz parte do conteúdo abordado pelo curso *Santander Bootcamp Cibersegurança*, realizado pela [DIO](https://web.dio.me/track/santander-bootcamp-ciberseguranca?tab=about), em parceria com Santander Universidades.
 
 ## Sobre o Projeto
 Projeto foi criado utilizando Python e utilizando a biblioteca pyaes para realizar a encriptação.
